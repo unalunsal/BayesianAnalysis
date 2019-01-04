@@ -1,2 +1,2 @@
 # BayesianAnalysis
-Bayesian Approach with Python and R 
+Bayesian Approach with Python
