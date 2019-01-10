@@ -51,7 +51,7 @@ print("It takes ",round((time.time() - now)/60,1), "minutes to run.")
 Xt.set_value(X_test)
 yt.set_value(np.zeros(y_test.shape[0]).tolist())
 
-# by using the model, get the prediction
+# by using the model, sample from the posterior. 
 with model:
     post_pred = pm.sample_ppc(trace, samples=1000)
 
