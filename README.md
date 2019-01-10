@@ -1,7 +1,7 @@
 # BayesianAnalysis
 Bayesian Approach with Python
 
-# BayesianNeuralNetwork.py
+# BayesianLogisticRegression.py
 I am calculating the out of sample prediction accuracy by using Bayesian Logistic Regression. 
 There are not many examples for the multinomial categorical outcome models by using pymc3. I thought this will be a good resource for anyone interested in using Bayesian approach with Logistic Regression. 
 Thank. 
