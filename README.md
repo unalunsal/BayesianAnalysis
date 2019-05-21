@@ -18,3 +18,10 @@ If you want to expand this code for an independent variable with more than 3 out
 Currently, Y has 3 binary columns since it has 3 distinct outputs. I will automate this part in the future. 
 
 Thanks. 
+
+
+If you see any errors, please feel free to reach out me. 
+
+Thanks!
+
+email: unal.unsal@hotmail.com
