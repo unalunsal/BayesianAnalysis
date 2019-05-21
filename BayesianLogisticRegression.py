@@ -28,7 +28,7 @@ X, y = load_iris(True)
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.5)
 
-# define the Xt and yt as theano shared variables. Otherwise, I will not be able to update them with the test sets. 
+# define the Xt and yt as theano shared variables which will give you an option to update them in the future. 
 Xt = theano.shared(X_train)
 yt = theano.shared(y_train)
 
