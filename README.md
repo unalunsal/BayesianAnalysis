@@ -4,7 +4,7 @@ Bayesian Approach with Python
 # BayesianLogisticRegression.py
 I am calculating the out of sample prediction accuracy by using Bayesian Logistic Regression. 
 There are not many examples for the multinomial categorical outcome models by using pymc3. Most of the models focus on examples with binary outcomes. I thought this will be a good resource for anyone interested in using Bayesian approach with Multinomial Logistic Regression. 
-I am using Iris data set and it can be easily updated for any data source. 
+Additionally, I am using Iris data set bu the script can be easily updated for any other data source. 
 
 Thanks. 
 
