@@ -11,9 +11,8 @@ from sklearn.model_selection import train_test_split
 import theano.tensor as tt
 import pandas as pd
 import numpy as np 
-import theano
+import theano, time
 import pymc3 as pm
-import time
 
 # let`s get the data first
 X, y = load_iris(True)
